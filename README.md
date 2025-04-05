@@ -42,11 +42,7 @@ The app is designed to promote better financial habits and decision-making.
 
 ## 📺 Demo Video
 
-
-<video width="100%" controls>
-  <source src="demo\1729010739494.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+👉 [Watch Demo Video](https://youtu.be/OEu6EjotKg0)
 
 ---
 
