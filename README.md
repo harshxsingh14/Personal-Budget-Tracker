@@ -20,7 +20,6 @@ The app is designed to promote better financial habits and decision-making.
 - 💸 **Expense Tracking** – Categorize, add, edit, and delete expenses  
 - 🧾 **Budget Planning** – Set monthly budgets and monitor actual spending  
 - 📅 **Reports** – Monthly and yearly summaries to visualize spending behavior  
-- 📱 **Responsive Design** – Optimized for desktop, tablet, and mobile use  
 
 ---
 
